@@ -6,7 +6,7 @@ just for me
 │  ├─ models.py
 │  ├─ database.py
 │  ├─ requirements.txt
-│  └─ tests/
+│  └─ tests
 │     └─ test_api.py
 ├─ frontend/
 │  ├─ package.json
