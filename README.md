@@ -7,7 +7,7 @@ just for me
 │  ├─ database.py
 │  ├─ requirements.txt
 │  └─ tests
-│     └─ test_api.py
+│     └─ test_api.p
 ├─ frontend/
 │  ├─ package.json
 │  ├─ vite.config.js
