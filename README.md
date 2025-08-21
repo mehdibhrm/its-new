@@ -1,6 +1,6 @@
 # its-new
 just for me
-📦 fastapi-react-todo/
+📦 fastapi-react-todo
 ├─ backen
 │  ├─ main.py
 │  ├─ models.py
