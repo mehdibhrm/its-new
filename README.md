@@ -8,7 +8,7 @@ just for me
 │  ├─ requirements.txt
 │  └─ tests
 │     └─ test_api.p
-├─ frontend/
+├─ frontend
 │  ├─ package.json
 │  ├─ vite.config.js
 │  └─ src/
