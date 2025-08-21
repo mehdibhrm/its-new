@@ -1,7 +1,7 @@
 # its-new
 just for me
 📦 fastapi-react-todo/
-├─ backend
+├─ backen
 │  ├─ main.py
 │  ├─ models.py
 │  ├─ database.py
