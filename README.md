@@ -3,7 +3,7 @@ just for me
 📦 fastapi-react-todo
 ├─ backen
 │  ├─ main.py
-│  ├─ models.py
+│  ├─ models.p
 │  ├─ database.p
 │  ├─ requirements.txt
 │  └─ tests
