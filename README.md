@@ -4,7 +4,7 @@ just for me
 ├─ backen
 │  ├─ main.py
 │  ├─ models.p
-│  ├─ database.p
+│  ├─ database.
 │  ├─ requirements.txt
 │  └─ tests
 │     └─ test_api.p
