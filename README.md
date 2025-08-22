@@ -2,7 +2,7 @@
 just for me
 📦 fastapi-react-todo
 ├─ backen
-│  ├─ main.
+│  ├─ main
 │  ├─ models.p
 │  ├─ database
 │  ├─ requirements.txt
