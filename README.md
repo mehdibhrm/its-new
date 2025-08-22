@@ -10,7 +10,7 @@ just for me
 │     └─ test_api.p
 ├─ frontend
 │  ├─ package.json
-│  ├─ vite.config.js
+│  ├─ vite.config.j
 │  └─ src/
 │     ├─ App.jsx
 │     └─ api.js
