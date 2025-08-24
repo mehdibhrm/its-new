@@ -16,7 +16,7 @@ just for me
 │     └─ api.js
 ├─ README.md
 ├─ LICENSE
-├─ .gitignore
+├─ .gitignor
 └─ .github/
    └─ workflows/
       └─ ci.yml
