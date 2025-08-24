@@ -3,7 +3,7 @@ just for me
 📦 fastapi-react-todo
 ├─ backen
 │  ├─ mai
-│  ├─ models.p
+│  ├─ models.
 │  ├─ databas
 │  ├─ requirements.txt
 │  └─ tests
