@@ -11,7 +11,7 @@ just for me
 ├─ frontend
 │  ├─ package.json
 │  ├─ vite.config.j
-│  └─ src/
+│  └─ src
 │     ├─ App.jsx
 │     └─ api.js
 ├─ README.md
