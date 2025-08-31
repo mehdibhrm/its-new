@@ -29,7 +29,7 @@ README.md
 A minimal full-stack app:
 - **Backend:** FastAPI with SQLite
 - **Frontend:** React (Vite + Tailwind)
-- **Tests + GitHub Actions**
+- **Tests + GitHub Actions*
 
 ## Run backend
 ```bash
