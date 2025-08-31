@@ -6,7 +6,7 @@ just for me
 │  ├─ models.
 │  ├─ databas
 │  ├─ requirements.txt
-│  └─ tests
+│  └─ test
 │     └─ test_api.p
 ├─ frontend
 │  ├─ package.jso
