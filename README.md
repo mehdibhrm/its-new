@@ -9,7 +9,7 @@ just for me
 │  └─ tests
 │     └─ test_api.p
 ├─ frontend
-│  ├─ package.json
+│  ├─ package.jso
 │  ├─ vite.config.j
 │  └─ s
 │     ├─ App.jsx
