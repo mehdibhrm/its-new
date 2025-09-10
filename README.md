@@ -5,7 +5,7 @@ just for m
 │  ├─ mai
 │  ├─ models
 │  ├─ databas
-│  ├─ requirements.txt
+│  ├─ requirements.tx
 │  └─ test
 │     └─ test_api.p
 ├─ fronte
