@@ -8,7 +8,7 @@ just for m
 │  ├─ requirements.txt
 │  └─ test
 │     └─ test_api.p
-├─ fronten
+├─ fronte
 │  ├─ package.jso
 │  ├─ vite.config.j
 │  └─ s
