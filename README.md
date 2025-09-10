@@ -1,5 +1,5 @@
 # its-new
-just for me
+just for m
 📦 fastapi-react-todo
 ├─ backen
 │  ├─ mai
