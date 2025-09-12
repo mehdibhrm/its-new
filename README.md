@@ -15,7 +15,7 @@ just for m
 │     ├─ App.jsx
 │     └─ api.js
 ├─ README.md
-├─ LICENSE
+├─ LICENS
 ├─ .gitigno
 └─ .github/
    └─ workflows/
