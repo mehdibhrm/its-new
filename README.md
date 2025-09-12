@@ -9,7 +9,7 @@ just for m
 │  └─ test
 │     └─ test_api.p
 ├─ fronte
-│  ├─ package.jso
+│  ├─ package.js
 │  ├─ vite.config.
 │  └─ s
 │     ├─ App.jsx
