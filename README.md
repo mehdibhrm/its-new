@@ -2,7 +2,7 @@
 just for m
 📦 fastapi-react-todo
 ├─ backen
-│  ├─ mai
+│  ├─ ma
 │  ├─ models
 │  ├─ databas
 │  ├─ requirements.tx
