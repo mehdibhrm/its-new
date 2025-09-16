@@ -16,7 +16,7 @@ just for m
 ├─ README.md
 ├─ LICENS
 ├─ .gitigno\
-└─ .github/
+└─ .github
    └─ workflows/
       └─ ci.yml
 
