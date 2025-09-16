@@ -15,7 +15,7 @@ just for m
 │     └─ api.j
 ├─ README.md
 ├─ LICENS
-├─ .gitigno
+├─ .gitigno\
 └─ .github/
    └─ workflows/
       └─ ci.yml
