@@ -7,7 +7,7 @@ just for m
 │  ├─ requirements.t
 │  └─ tes
 │     └─ test_api.
-├─ fronte
+├─ front
 │  ├─ package.js
 │  ├─ vite.config.
 │  └─ s
