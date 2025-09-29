@@ -5,7 +5,7 @@ just for m
 │  ├─ ma
 │  ├─ databa
 │  ├─ requirements.t
-│  └─ tes
+│  └─ te
 │     └─ test_api.
 ├─ front
 │  ├─ package.js
