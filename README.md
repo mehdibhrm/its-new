@@ -6,7 +6,7 @@ just for m
 │  ├─ databa
 │  ├─ requirements.t
 │  └─ te
-│     └─ test_api.
+│     └─ test_api
 ├─ front
 │  ├─ package.js
 │  ├─ vite.config.
