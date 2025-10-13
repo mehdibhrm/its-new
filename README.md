@@ -9,7 +9,7 @@ just for m
 │     └─ test_ap
 ├─ fron
 │  ├─ package.js
-│  ├─ vite.config.
+│  ├─ vite.config
 │  └─ s
 │     ├─ App.jsx
 │     └─ api.
