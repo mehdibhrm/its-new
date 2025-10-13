@@ -11,7 +11,7 @@ just for m
 │  ├─ package.js
 │  ├─ vite.config
 │  └─ s
-│     ├─ App.jsx
+│     ├─ App.js
 │     └─ api.
 ├─ README.md
 ├─ LICENS
