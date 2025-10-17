@@ -8,7 +8,7 @@ just for m
 │  └─ te
 │     └─ test_ap
 ├─ fron
-│  ├─ package.js
+│  ├─ package.j
 │  ├─ vite.config
 │  └─ s
 │     ├─ App.js
