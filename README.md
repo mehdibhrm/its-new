@@ -7,7 +7,7 @@ just for m
 │  ├─ requirements.t
 │  └─ te
 │     └─ test_ap
-├─ fron
+├─ fro
 │  ├─ package.j
 │  ├─ vite.config
 │  └─ s
