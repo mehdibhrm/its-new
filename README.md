@@ -10,7 +10,7 @@ just for m
 ├─ fr
 │  ├─ package
 │  ├─ vite.config
-│  └─ s
+│  └─ 
 │     ├─ App.j
 │     └─ api.
 ├─ README.md
