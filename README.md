@@ -11,7 +11,7 @@ just for m
 │  ├─ package
 │  ├─ vite.config
 │  └─ 
-│     ├─ App.j
+│     ├─ App.
 │     └─ api.
 ├─ README.md
 ├─ LICENS
