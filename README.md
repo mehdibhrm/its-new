@@ -12,7 +12,7 @@ just for m
 │  ├─ vite.config
 │  └─ 
 │     ├─ App.
-│     └─ api.
+│     └─ api
 ├─ README.md
 ├─ LICENS
 ├─ .gitigno\
