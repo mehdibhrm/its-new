@@ -9,7 +9,7 @@ just for m
 │     └─ test_ap
 ├─ fr
 │  ├─ package
-│  ├─ vite.config
+│  ├─ vite.confi
 │  └─
 │     ├─ App.
 │     └─ api
