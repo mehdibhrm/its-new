@@ -6,7 +6,7 @@ just for m
 │  ├─ datab
 │  ├─ requirements.
 │  └─ t
-│     └─ test_
+│     └─ test
 ├─ fr
 │  ├─ package
 │  ├─ vite.conf
